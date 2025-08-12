@@ -20,7 +20,7 @@ We welcome applications from candidates with expertise in image/signal processin
 
 ### Current openings
 - **Postdoctoral Fellow** — AI-enhanced CMR
-  *Send CV + 2 references to* **csyfc@missouri.edu**.
-- **PhD Student** — Biomedical, MRI physics, EECS or other engineering background
+- **PhD Student** — Those with an engineering background and a strong interest in our research areas.
+*Send CV to* **csyfc@missouri.edu**.
 
 
