@@ -17,7 +17,30 @@ permalink: /people
 # People
 
 ## Faculty
-- **Dr. Changyu Sun** — Chair/PI. Interests: cardiac MRI, CMD, self-supervised learning, physics-guided reconstruction.
+### Dr. Changyu Sun  
+**Assistant Professor, NextGen Precision Health Investigator**  
+**Email:** [csyfc@missouri.edu](mailto:csyfc@missouri.edu)  
+
+**Office:**  
+1101 Hospital Drive, NextGen Precision Health Institute  
+Columbia, MO 65211, United States  
+
+**Research Summary:**  
+Dr. Sun is an MRI researcher focused on developing novel strategies for rapid MRI acquisition, accurate reconstruction, and quantitative analysis. His current research emphasizes novel physics- and data-driven methods using deep learning, parallel imaging, non-Cartesian sampling, and compressed sensing for cardiopulmonary applications. The ultimate goal is to enable fast, accurate, and automated MRI workflows for diagnosing and treating cardiopulmonary diseases.
+
+**Research Interests:**  
+- Data-driven and physics-driven MRI methods  
+- Diagnosis and treatment of cardiopulmonary diseases  
+
+**Areas of Expertise:**  
+- Magnetic Resonance Imaging (MRI)  
+- Artificial Intelligence in medical imaging  
+- Image reconstruction and analysis  
+- Rapid MRI  
+- Cardiac MRI  
+
+**Education & Training:**  
+- PhD, INSA de Lyon (2015)
 
 ## Trainees & Staff
 - **Your Name, PhD** — Postdoctoral Fellow — AI for perfusion MRI.
