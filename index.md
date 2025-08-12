@@ -75,6 +75,28 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 16px;">
+  <!-- Left side: paper figure -->
+  <div style="flex: 0 0 auto;">
+    <a href="https://doi.org/10.1002/mrm.30422">
+      <img src="{{ '/assets/TagGen.png' | relative_url }}" 
+           alt="TagGen: Diffusion-based generative model for cardiac MR tagging super resolution" 
+           style="width:180px; border: 1px solid #ddd;">
+    </a>
+  </div>
+
+  <!-- Right side: paper title and authors -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-weight: bold; font-size: 1.1em;">
+      <a href="https://doi.org/10.1002/mrm.30422" style="text-decoration: none; color: #000;">
+        TagGen: Diffusion-based generative model for cardiac MR tagging super resolution
+      </a>
+    </p>
+    <p style="margin: 4px 0; color: #555;">
+      Changyu Sun<sup>*</sup>, Cody Thornburgh, Yu Wang, Senthil Kumar, Talissa A. Altes
+    </p>
+  </div>
+</div>
 
 
 Contact: [csyfc@missouri.edu](mailto:csyfc@missouri.edu)
