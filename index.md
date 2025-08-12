@@ -28,6 +28,6 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
 - **Integrated MRI** — heart–brain–lung for systemic vascular health.
 - **AI from development to deployment in MRI scanner** — preclinical and clinical deployement and validation of AI on MRI.
 
-![Lab image]({ site.baseurl }/assets/sample.jpg)
+![NextGen Precision Health]({ site.baseurl }/assets/NextGen.png)
 
 > Contact: <a href="mailto:csyfc@missouri.edu">csyfc@missouri.edu</a>
