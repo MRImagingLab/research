@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <!-- Header (Cayman look) -->
+    <section class="page-header">
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      <p>
+        <a class="btn" href="{{ '/' | relative_url }}">Home</a>
+        <a class="btn" href="{{ '/people' | relative_url }}">People</a>
+        <a class="btn" href="{{ '/publications' | relative_url }}">Publications</a>
+        <a class="btn" href="{{ '/media' | relative_url }}">Media</a>
+        <a class="btn" href="{{ '/news' | relative_url }}">News</a>
+        <a class="btn" href="{{ '/positions' | relative_url }}">Positions</a>
+      </p>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <!-- Your custom footer: replaces the theme’s footer -->
+      <footer class="site-footer" role="contentinfo" style="text-align:center; padding:12px 0;">
+        © 2025 Sun Lab — Cardiac AI & Translational Imaging
+      </footer>
+    </section>
+  </body>
+</html>
