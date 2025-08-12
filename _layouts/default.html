@@ -3,7 +3,25 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | default: site.title }}</title>
+
+    <!-- SEO meta tags -->
+    <title>{{ page.title | default: site.title }} | Changyu Sun - Sun Lab</title>
+    <meta name="description" content="Changyu Sun's Sun Lab at the University of Missouri focuses on AI-enhanced cardiac and pulmonary MRI, large animal models, and translational imaging for microvascular health.">
+    <meta name="keywords" content="Changyu Sun, Sun Lab, AI MRI, cardiac MRI, pulmonary MRI, large animal models, University of Missouri, microvascular health, CATIMH">
+    <meta name="author" content="Changyu Sun">
+
+    <!-- Open Graph for social sharing -->
+    <meta property="og:title" content="Changyu Sun - Sun Lab | AI-Enhanced Cardiopulmonary MRI">
+    <meta property="og:description" content="AI-enhanced cardiac and pulmonary MRI, large animal models, and translational imaging for microvascular health.">
+    <meta property="og:url" content="https://mrimaginglab.github.io/research/">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Changyu Sun - Sun Lab | AI-Enhanced Cardiopulmonary MRI">
+    <meta name="twitter:description" content="AI-enhanced cardiac and pulmonary MRI, large animal models, and translational imaging for microvascular health.">
+
+    <!-- Existing CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     <!-- Google tag (gtag.js) -->
