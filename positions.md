@@ -19,7 +19,7 @@ permalink: /positions
 We welcome applications from candidates with strong backgrounds in **MRI physics**, **deep learning**, and **cardiovascular imaging**.
 
 ### Current openings
-- **Postdoctoral Fellow** — AI-enhanced CMR (perfusion, tagging, motion)  
+- **Postdoctoral Fellow** — AI-enhanced CMR
   *Send CV + 2 references to* **info@mrimaginglab.org**.
 - **PhD Student** — Physics-guided reconstruction and microvascular imaging
 
