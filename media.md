@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code or/and Media
+title: Code or Media
 permalink: /Media
 ---
 
