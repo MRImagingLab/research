@@ -7,7 +7,7 @@ permalink: /media
 # Example of large animal CMR
 
 <video width="720" controls>
-  <source src="{{ '/assets/media/CMRvideo.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/CMRvideo.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
