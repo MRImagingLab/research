@@ -4,7 +4,7 @@ title: Media
 permalink: /media
 ---
 
-# Example of large animal CMR
+## Example of large animal CMR
 
 <video width="720" controls>
   <source src="{{ '/assets/CMRvideo.mp4' | relative_url }}" type="video/mp4">
