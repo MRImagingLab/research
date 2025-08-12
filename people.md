@@ -45,8 +45,6 @@ Dr. Sun is an MRI researcher focused on developing novel strategies for rapid MR
 - Visiting faculty, King's College London (2024)
 
 ## Trainees & Staff
-- **Your Name, PhD** — Postdoctoral Fellow — AI for perfusion MRI.
-- **Your Name, MS** — PhD Student — Tagging super-resolution.
-- **Your Name** — Research Engineer — MRI reconstruction pipeline.
+- **Nathan Bresette** — PhD Student
 
 _You can add headshots by placing images in `assets/` and embedding them here._
