@@ -23,4 +23,4 @@ We welcome applications from candidates with strong backgrounds in **MRI physics
   *Send CV + 2 references to* **csyfc@missouri.edu**.
 - **PhD Student** — Deep learning, MRI physics, EECS, or engineering background
 
-_Use GitHub Issues or simple Markdown edits to update this list._
+
