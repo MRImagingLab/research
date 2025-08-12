@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code or/and Media
-permalink: /Code or/and Media
+permalink: /Media
 ---
 
 <!-- Simple nav -->
@@ -14,7 +14,7 @@ permalink: /Code or/and Media
   <a href="{{ site.baseurl }}/positions">Open Positions</a>
 </p>
 
-# Media
+# Code or media
 
 ## Videos
 - Example: Perfusion SR demo (YouTube)  
