@@ -22,6 +22,6 @@ We welcome applications from candidates with expertise in image/signal processin
 - **Postdoctoral Fellow** — AI-enhanced CMR
 - **PhD Student** —  Engineering background and a strong interest in our research areas.
 - **Undergraduate Student** — Engineering background and a strong interest in our research areas.
-*Send CV to* **csyfc@missouri.edu**.
+- *Send CV to* **csyfc@missouri.edu**.
 
 
