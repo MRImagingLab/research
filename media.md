@@ -13,7 +13,7 @@ permalink: /media
   <a href="{{ '/positions' | relative_url }}">Open Positions</a>
 </p>
 
-# Code or media
+# Media
 
 ## Videos
 - Example: Perfusion SR demo (YouTube)  
