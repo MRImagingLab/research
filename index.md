@@ -56,7 +56,7 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
   <!-- Left side: paper figure -->
   <div style="flex: 0 0 auto;">
     <a href="https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1499593/full">
-      <img src="{{ '/assets/PerfGen.png' | relative_url }}" 
+      <img src="{{ '/assets/PerfGen.jpeg' | relative_url }}" 
            alt="Conditional diffusion-generated super-resolution for myocardial perfusion MRI" 
            style="width:180px; border: 1px solid #ddd;">
     </a>
@@ -70,7 +70,7 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
       </a>
     </p>
     <p style="margin: 4px 0; color: #555;">
-      Changyu Sun, Neha Goyal, Yu Wang, Darla L. Tharp, Senthil Kumar, Talissa A. Altes
+      Changyu Sun<sup>*</sup>, Neha Goyal, Yu Wang, Darla L. Tharp, Senthil Kumar, Talissa A. Altes
     </p>
   </div>
 </div>
