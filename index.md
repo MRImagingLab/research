@@ -15,7 +15,7 @@ title: Home
 
 # Sun Lab — Cardiopulmunary MRI & AI & Translational Imaging
 
-We develop **AI-enhanced cardiac MRI** and **translational large animal imaging** to study cardiovascular diseases such as coronary artery disease, HFpEF, and the heart–brain–lung axis.
+We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal imaging** to study cardiovascular diseases such as coronary artery disease, HFpEF, and the heart–brain–lung axis.
 
 - **Latest**: see [News]({ site.baseurl }/news) and [Publications]({ site.baseurl }/publications).
 - **Openings**: see [Positions]({ site.baseurl }/positions).
