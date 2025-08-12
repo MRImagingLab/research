@@ -1,10 +1,5 @@
 title: Sun Lab
 description: Cardiac AI & Translational Imaging for Microvascular Health
 theme: jekyll-theme-cayman
-
-# For a project site: https://mrimaginglab.github.io/research/
 url: "https://mrimaginglab.github.io"
 baseurl: "/research"
-
-# Optional: enable Google Analytics later by uncommenting and adding your ID
-# google_analytics: G-XXXXXXXXXX
