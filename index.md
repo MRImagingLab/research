@@ -22,30 +22,38 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
 
 ## Highlights
 
-- **Cardiac MRI reconstruction** — physics-guided MRI reconstruction and self-supervised learning.
-- **Generative super resolution MRI** — Diffusion model, flow matching etc.
-- **Large-animal translation** — Ossabaw pig models for cardiometabolic disease.
-- **Integrated MRI** — heart–brain–lung for systemic vascular health.
-- **AI from development to deployment in MRI scanner** — preclinical and clinical deployement and validation of AI on MRI.
+<div style="display: flex; align-items: center; gap: 16px;">
+  <!-- Left side: paper figure -->
+  <div style="flex: 0 0 auto;">
+    <a href="https://www.mdpi.com/2306-5354/12/7/724">
+      <img src="{{ '/assets/be4da4e4-8968-423d-9ab9-28d75041d3da.png' | relative_url }}" 
+           alt="Plug-and-Play Self-Supervised Denoising" 
+           style="width:180px; border: 1px solid #ddd;">
+    </a>
+  </div>
+
+  <!-- Right side: paper title and authors -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-weight: bold; font-size: 1.1em;">
+      <a href="https://www.mdpi.com/2306-5354/12/7/724" style="text-decoration: none; color: #000;">
+        Plug-and-Play Self-Supervised Denoising for Pulmonary Perfusion MRI
+      </a>
+    </p>
+    <p style="margin: 4px 0; color: #555;">
+      Changyu Sun<sup>1</sup>, et al.
+    </p>
+
+    <ul style="margin-top: 8px;">
+      <li><b>Cardiac MRI reconstruction</b> — physics-guided MRI reconstruction and self-supervised learning.</li>
+      <li><b>Generative super resolution MRI</b> — Diffusion model, flow matching etc.</li>
+      <li><b>Large-animal translation</b> — Ossabaw pig models for cardiometabolic disease.</li>
+      <li><b>Integrated MRI</b> — heart–brain–lung for systemic vascular health.</li>
+      <li><b>AI from development to deployment in MRI scanners</b> — preclinical and clinical deployment and validation of AI for MRI.</li>
+    </ul>
+  </div>
+</div>
 
 
 
-
-## [Paper Title: Plug-and-Play Self-Supervised Denoising for Pulmonary Perfusion MRI](https://www.mdpi.com/2306-5354/12/7/724)
-
-### Highlights
-- **Cardiac MRI reconstruction** — physics-guided MRI reconstruction and self-supervised learning.
-- **Generative super resolution MRI** — Diffusion model, flow matching etc.
-- **Large-animal translation** — Ossabaw pig models for cardiometabolic disease.
-- **Integrated MRI** — heart–brain–lung for systemic vascular health.
-- **AI from development to deployment in MRI scanner** — preclinical and clinical deployment and validation of AI on MRI.
-
-<p align="center">
-  <a href="https://precisionhealth.missouri.edu/">
-    <img src="{{ '/assets/be4da4e4-8968-423d-9ab9-28d75041d3da.png' | relative_url }}" 
-         alt="PnP-ADMM + AP-BSN Workflow" 
-         width="400">
-  </a>
-</p>
 
 Contact: [csyfc@missouri.edu](mailto:csyfc@missouri.edu)
