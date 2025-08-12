@@ -3,7 +3,6 @@ layout: default
 title: People
 permalink: /people
 ---
-
 <section class="people-section">
   <h2>Faculty</h2>
 
@@ -47,22 +46,44 @@ permalink: /people
   </div>
 </section>
 
-<!-- Second Section: Trainees & Staff -->
-<section class="people-section">
-  <h2>Trainees & Staff</h2>
+.people-section {
+  margin-bottom: 40px;
+}
 
-  <div class="person-card">
-    <!-- Left Column -->
-    <div class="person-left">
-      <img src="{{ site.baseurl }}/assets/Nathan_Bresette.jpg" alt="Nathan Bresette">
-      <h3>Nathan Bresette</h3>
-      <p><strong>PhD Student</strong></p>
-    </div>
+.person-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+}
 
-    <!-- Right Column -->
-    <div class="person-right">
-      <p>Nathan Bresette is a PhD student working on AI-enhanced cardiac MRI reconstruction and quantitative analysis. His research focuses on integrating deep learning with physics-based constraints to improve image quality and accelerate data acquisition, with an emphasis on translating novel methods into clinically relevant workflows.</p>
-    </div>
-  </div>
-</section>
+.person-left {
+  flex: 1 1 220px;
+  max-width: 250px;
+  text-align: center;
+}
+
+.person-left img {
+  max-width: 180px;  /* This keeps the photo small */
+  height: auto;
+  border-radius: 8px;
+}
+
+.person-right {
+  flex: 2 1 500px;
+}
+
+@media (max-width: 768px) {
+  .person-card {
+    flex-direction: column;
+    align-items: center;
+  }
+  .person-left, .person-right {
+    max-width: 100%;
+    text-align: center;
+  }
+  .person-left img {
+    max-width: 150px;
+  }
+}
 
