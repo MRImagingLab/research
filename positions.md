@@ -21,6 +21,6 @@ We welcome applications from candidates with strong backgrounds in **MRI physics
 ### Current openings
 - **Postdoctoral Fellow** — AI-enhanced CMR
   *Send CV + 2 references to* **info@mrimaginglab.org**.
-- **PhD Student** — Physics-guided reconstruction and microvascular imaging
+- **PhD Student** — Deep learning-based MRI, MRI physics, EECS, or other engineering background
 
 _Use GitHub Issues or simple Markdown edits to update this list._
