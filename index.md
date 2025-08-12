@@ -13,7 +13,7 @@ title: Home
   <a href="{{ site.baseurl }}/positions">Open Positions</a>
 </p>
 
-# Sun Lab — Cardiac AI & Translational Imaging
+# Sun Lab — Cardiopulmunary MRI & AI & Translational Imaging
 
 We develop **AI-enhanced cardiac MRI** and **translational large animal imaging** to study cardiovascular diseases such as coronary artery disease, HFpEF, and the heart–brain–lung axis.
 
