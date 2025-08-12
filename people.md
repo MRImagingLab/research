@@ -11,7 +11,7 @@ permalink: /people
   <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start;">
 
     <!-- Photo -->
-    <img src="/assets/img/Sun_Changyu.jpg"
+    <img src="/assets/Sun_Changyu.jpg"
          alt="Dr. Changyu Sun"
          style="max-width:200px; height:auto; border-radius:8px;">
 
