@@ -17,7 +17,7 @@ title: Sun Lab
 
 We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal imaging** to study cardiovascular diseases such as coronary artery disease, HFpEF, and the heart–brain–lung axis.
 
-- **Latest:** see [News]({{ '/news' | relative_url }}) and [Publications]({{ '/publications' | relative_url }}).  
+- **Latest:** see [News]({{ '/news' | relative_url }}) and [Publications]({{ '/publications' | relative_url }}).
 - **Openings:** see [Positions]({{ '/positions' | relative_url }}).
 
 ## Highlights
@@ -28,7 +28,7 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
 - **Integrated MRI** — heart–brain–lung for systemic vascular health.
 - **AI from development to deployment in MRI scanner** — preclinical and clinical deployement and validation of AI on MRI.
 
-<p align="center">
+<p>
   <a href="https://precisionhealth.missouri.edu/">
     <img src="{{ '/assets/NextGen.png' | relative_url }}" alt="NextGen Precision Health" width="720">
   </a>
