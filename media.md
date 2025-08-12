@@ -4,6 +4,14 @@ title: Media
 permalink: /media
 ---
 
+# Example of large animal CMR
+
+<video width="720" controls>
+  <source src="{{ '/assets/media/CMRvideo.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Media Coverage
 
 Here’s where our cardiac MRI generative AI’s impact is being noticed:
