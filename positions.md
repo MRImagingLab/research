@@ -21,6 +21,6 @@ We welcome applications from candidates with strong backgrounds in **MRI physics
 ### Current openings
 - **Postdoctoral Fellow** — AI-enhanced CMR
   *Send CV + 2 references to* **csyfc@missouri.edu**.
-- **PhD Student** — Deep learning, MRI physics, EECS, or engineering background
+- **PhD Student** — Biomedical, MRI physics, EECS or other engineering background
 
 
