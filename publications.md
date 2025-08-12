@@ -96,8 +96,8 @@ permalink: /publications
 - **Conditional Diffusion-Generated Super-Resolution for Myocardial First-Pass Perfusion MRI** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.
 
 ### 2024
-- **TagGen: Diffusion-based generative model for cardiac MR tagging super resolution** — *Power pitch, oral presentation*, 28th SCMR, Washington, D.C., USA.  
-- **Long-axis cardiac tagging MRI motion estimation using an unsupervised neural network** — *Power pitch, oral presentation*, 27th SCMR, London, UK.  
+- **TagGen: Diffusion-based generative model for cardiac MR tagging super resolution** — *Power pitch*, 28th SCMR, Washington, D.C., USA.  
+- **Long-axis cardiac tagging MRI motion estimation using an unsupervised neural network** — *Power pitch*, 27th SCMR, London, UK.  
 - **Free-breathing high-resolution perfusion MRI with over 11-fold acceleration using self-supervised learning** — *Oral presentation*, 27th SCMR, London, UK.  
 - **Spatiotemporal fractal analysis and radiomics of free-breathing stress myocardial perfusion** — *Power pitch, oral presentation*, 27th SCMR, London, UK.  
 - **Phase-specific spatiotemporal fractal analysis and radiomics of free-breathing stress myocardial perfusion** — *Abstract 6579, 1% highlight*, 32nd ISMRM, Singapore.  
