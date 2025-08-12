@@ -31,7 +31,7 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
   <!-- Left side: paper figure -->
   <div style="flex: 0 0 auto;">
     <a href="https://www.mdpi.com/2306-5354/12/7/724">
-      <img src="{{ '/assets/be4da4e4-8968-423d-9ab9-28d75041d3da.png' | relative_url }}" 
+      <img src="{{ '/assets/lung denoising.jpeg' | relative_url }}" 
            alt="Plug-and-Play Self-Supervised Denoising" 
            style="width:180px; border: 1px solid #ddd;">
     </a>
