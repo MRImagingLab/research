@@ -62,8 +62,5 @@ permalink: /people
       <h3>Nathan Bresette</h3>
       <p><strong>PhD Student</strong></p>
     </div>
-    <div class="person-right">
-      <p>Nathan Bresette</p>
-    </div>
   </div>
 </section>
