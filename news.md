@@ -16,6 +16,5 @@ permalink: /news
 
 # News
 
-- **2025-08-12** — Website demo launched on GitHub Pages.  
-- **2025-07-20** — Diffusion SR model for perfusion MRI reached new benchmark.  
-- **2025-06-01** — Pilot Ossabaw GLP-1 study imaging complete.
+- **2024-05** — *Phase-specific spatiotemporal fractal analysis and radiomics of free-breathing stress myocardial perfusion* selected as **Abstract 6579, 1% highlight** at the 32nd Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), Singapore.
+
