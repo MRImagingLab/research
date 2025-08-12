@@ -23,7 +23,7 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
 ## Highlights
 - **Cardiac MRI reconstruction** — physics-guided MRI reconstruction and self-supervised learning.
 - **Generative super resolution MRI** — diffusion model, flow matching etc.
-- **Large-animal translation** — AI and Ossabaw pig models MRI for cardiometabolic disease.
+- **Large-animal translation** — AI and  MRI Ossabaw pig models for cardiovascular diseases.
 - **Integrated MRI** — heart–brain–lung for systemic vascular health.
 - **AI from development to deployment in MRI scanners** — preclinical and clinical deployement and validation of AI for MRI.
 
