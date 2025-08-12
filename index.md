@@ -28,4 +28,4 @@ We develop **AI-enhanced cardiac MRI** and **translational swine models** to stu
 
 ![Lab image]({ site.baseurl }/assets/sample.jpg)
 
-> Contact: <a href="mailto:info@mrimaginglab.org">info@mrimaginglab.org</a>
+> Contact: <a href="mailto:csyfc@missouri.edu">info@mrimaginglab.org</a>
