@@ -43,7 +43,10 @@ Dr. Sun is an MRI researcher focused on developing novel strategies for rapid MR
 - PhD, INSA de Lyon (2015)
 - Research Scientist, University of Virginia (2021)
 - Visiting faculty, King's College London (2024)
-
+  
+**Current Teaching:**  
+- *Medical Image Processing* — Biomedical Engineering Department, University of Missouri
+  
 ## Trainees & Staff
 - **Nathan Bresette** — PhD Student
 
