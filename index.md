@@ -45,9 +45,9 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
       </a>
     </p>
     <p style="margin: 4px 0; color: #555;">
-      Changyu Sun<sup>1,2,*</sup>, Yu Wang<sup>1</sup>, Cody Thornburgh<sup>2</sup>, 
-      Ai-Ling Lin<sup>2,3,4</sup>, Kun Qing<sup>5</sup>, John P. Mugler III<sup>6</sup>, 
-      and Talissa A. Altes<sup>2</sup>
+      Changyu Sun<sup>*</sup>, Yu Wang, Cody Thornburgh, 
+      Ai-Ling Lin, Kun Qing, John P. Mugler III, 
+      and Talissa A. Altes
     </p>
   </div>
 </div>
