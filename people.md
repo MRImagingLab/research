@@ -47,4 +47,3 @@ Dr. Sun is an MRI researcher focused on developing novel strategies for rapid MR
 ## Trainees & Staff
 - **Nathan Bresette** — PhD Student
 
-_You can add headshots by placing images in `assets/` and embedding them here._
