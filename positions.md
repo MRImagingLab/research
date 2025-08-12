@@ -16,7 +16,7 @@ permalink: /positions
 
 # Open Positions
 
-We welcome applications from candidates with expertise in image/signal processing, deep learning, MRI, or from those with an engineering background and a strong interest in these areas.
+We welcome applications from candidates with expertise in image/signal processing, deep learning, cardiac imaging, or from those with an engineering background and a strong interest in these areas.
 
 ### Current openings
 - **Postdoctoral Fellow** — AI-enhanced CMR
