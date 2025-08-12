@@ -16,7 +16,7 @@ permalink: /positions
 
 # Open Positions
 
-We welcome applications from candidates with strong backgrounds in **MRI physics**, **deep learning**, and **cardiovascular imaging**.
+We welcome applications from candidates with expertise in image/signal processing, deep learning, MRI, or from those with an engineering background and a strong interest in these areas.
 
 ### Current openings
 - **Postdoctoral Fellow** — AI-enhanced CMR
