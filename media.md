@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code or/and Media
-permalink: /media
+permalink: /Code or/and Media
 ---
 
 <!-- Simple nav -->
