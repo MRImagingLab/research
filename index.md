@@ -79,7 +79,7 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
   <!-- Left side: paper figure -->
   <div style="flex: 0 0 auto;">
     <a href="https://doi.org/10.1002/mrm.30422">
-      <img src="{{ '/assets/TagGen.png' | relative_url }}" 
+      <img src="{{ '/assets/TagGen.jpeg' | relative_url }}" 
            alt="TagGen: Diffusion-based generative model for cardiac MR tagging super resolution" 
            style="width:180px; border: 1px solid #ddd;">
     </a>
