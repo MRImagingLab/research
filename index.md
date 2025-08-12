@@ -37,12 +37,15 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
     </a>
   </div>
 
-  <!-- Right side: paper title and authors -->
+  <!-- Right side: paper title, date, and authors -->
   <div style="flex: 1;">
     <p style="margin: 0; font-weight: bold; font-size: 1.1em;">
       <a href="https://www.mdpi.com/2306-5354/12/7/724" style="text-decoration: none; color: #000;">
         Plug-and-Play Self-Supervised Denoising for Pulmonary Perfusion MRI
       </a>
+    </p>
+    <p style="margin: 2px 0; color: #888; font-size: 0.95em;">
+      Published: July 2025
     </p>
     <p style="margin: 4px 0; color: #555;">
       Changyu Sun<sup>*</sup>, Yu Wang, Cody Thornburgh, 
@@ -69,6 +72,9 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
         Conditional diffusion-generated super-resolution for myocardial perfusion MRI
       </a>
     </p>
+    <p style="margin: 2px 0; color: #888; font-size: 0.95em;">
+      Published: January 2025
+    </p>
     <p style="margin: 4px 0; color: #555;">
       Changyu Sun<sup>*</sup>, Neha Goyal, Yu Wang, Darla L. Tharp, Senthil Kumar, Talissa A. Altes
     </p>
@@ -91,6 +97,9 @@ We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal 
       <a href="https://doi.org/10.1002/mrm.30422" style="text-decoration: none; color: #000;">
         TagGen: Diffusion-based generative model for cardiac MR tagging super resolution
       </a>
+    </p>
+    <p style="margin: 2px 0; color: #888; font-size: 0.95em;">
+      Published: January 2025
     </p>
     <p style="margin: 4px 0; color: #555;">
       Changyu Sun<sup>*</sup>, Cody Thornburgh, Yu Wang, Senthil Kumar, Talissa A. Altes
