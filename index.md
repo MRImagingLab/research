@@ -22,10 +22,11 @@ We develop **AI-enhanced cardiac MRI** and **translational large animal imaging*
 
 ## Highlights
 
-- **CMD & Microvascular Imaging** — physics-guided MRI reconstruction, self-supervised learning, perfusion and tagging.
+- **Cardiac MRI reconstruction** — physics-guided MRI reconstruction and self-supervised learning.
+- **Generative super resolution MRI** — Diffusion model, flow matching etc.
 - **Large-animal translation** — Ossabaw pig models for cardiometabolic disease.
 - **Integrated MRI** — heart–brain–lung for systemic vascular health.
-- **Integrated AI in MRI scanner** — preclinical and clinical deployement and validation of AI on MRI.
+- **AI from development to deployment in MRI scanner** — preclinical and clinical deployement and validation of AI on MRI.
 
 ![Lab image]({ site.baseurl }/assets/sample.jpg)
 
