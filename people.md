@@ -41,6 +41,8 @@ Dr. Sun is an MRI researcher focused on developing novel strategies for rapid MR
 
 **Education & Training:**  
 - PhD, INSA de Lyon (2015)
+- Research Scientist, University of Virginia (2021)
+- Visiting faculty, King's College London (2024)
 
 ## Trainees & Staff
 - **Your Name, PhD** — Postdoctoral Fellow — AI for perfusion MRI.
