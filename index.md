@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sun Lab
+title: Changyu Sun - Sun Lab
 ---
 
 # Sun Lab — AI-enhanced Cardiopulmunary MRI & Translational Imaging
