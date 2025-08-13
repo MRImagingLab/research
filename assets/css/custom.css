@@ -1,6 +1,6 @@
 /* Reduce the height and narrow the content area of the gradient bar */
 .page-header {
-  padding: 2rem 0 !important; /* Reduce vertical space — adjust to taste */
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
 }
 
 .page-header h1,
