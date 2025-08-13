@@ -3,16 +3,6 @@ layout: default
 title: Sun Lab
 ---
 
-<!-- Simple nav -->
-<p align="center">
-  <a href="{{ site.baseurl }}/">Home</a> •
-  <a href="{{ site.baseurl }}/people">People</a> •
-  <a href="{{ site.baseurl }}/publications">Publications</a> •
-  <a href="{{ site.baseurl }}/media">Media</a> •
-  <a href="{{ site.baseurl }}/news">News</a> •
-  <a href="{{ site.baseurl }}/positions">Open Positions</a>
-</p>
-
 # Sun Lab — AI-enhanced Cardiopulmunary MRI & Translational Imaging
 
 We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal imaging** to study cardiovascular diseases such as coronary artery disease, HFpEF, and the heart–brain–lung axis.
