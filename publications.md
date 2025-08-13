@@ -4,15 +4,6 @@ title: Publications
 permalink: /publications
 ---
 
-<!-- Simple nav -->
-<p align="center">
-  <a href="{{ site.baseurl }}/">Home</a> •
-  <a href="{{ site.baseurl }}/people">People</a> •
-  <a href="{{ site.baseurl }}/publications">Publications</a> •
-  <a href="{{ site.baseurl }}/media">Media</a> •
-  <a href="{{ site.baseurl }}/news">News</a> •
-  <a href="{{ site.baseurl }}/positions">Open Positions</a>
-</p>
 
 # Publications & Patents (Selected, 2022–Present)
 
