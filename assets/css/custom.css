@@ -1,6 +1,6 @@
 /* Reduce the height and narrow the content area of the gradient bar */
 .page-header {
-    background: linear-gradient(to right, #004e92, #000428);
+   background: linear-gradient(to right, #1e3c72, #2a5298);
 }
 
 .page-header h1,
