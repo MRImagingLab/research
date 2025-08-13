@@ -1,16 +1,12 @@
-/* Custom overrides for Cayman theme */
-
-/* Narrow header content but keep full-width background */
+/* Reduce the height and narrow the content area of the gradient bar */
 .page-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  padding: 2rem 0 !important; /* Reduce vertical space — adjust to taste */
 }
 
 .page-header h1,
 .page-header h2,
 .page-header p {
-  max-width: 1000px; /* Adjust to control width */
+  max-width: 900px;   /* Limit the width of text/buttons */
   margin-left: auto;
   margin-right: auto;
   text-align: center;
