@@ -3,9 +3,9 @@ layout: default
 title: Changyu Sun - Sun Lab
 ---
 
-# Sun Lab — AI-enhanced Cardiopulmunary MRI & Translational Imaging
+# Changyu Sun - Sun Lab — AI-enhanced Cardiopulmonary MRI & Translational Imaging
 
-We develop **AI-enhanced cardiopulmunary MRI** and **translational large animal imaging** to study cardiovascular diseases such as coronary artery disease, HFpEF, and the heart–brain–lung axis.
+We develop **AI-enhanced cardiopulmonary MRI** and **translational large animal imaging** to study cardiovascular diseases such as coronary artery disease, HFpEF, and the heart–brain–lung axis.
 
 - **Latest:** see [News]({{ '/news' | relative_url }}) and [Publications]({{ '/publications' | relative_url }}).  
 - **Openings:** see [Positions]({{ '/positions' | relative_url }}).
