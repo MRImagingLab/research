@@ -6,7 +6,7 @@
 .page-header h1,
 .page-header h2,
 .page-header p {
-  max-width: 700px;   /* Limit the width of text/buttons */
+  max-width: 600px;   /* Limit the width of text/buttons */
   margin-left: auto;
   margin-right: auto;
   text-align: center;
