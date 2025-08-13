@@ -4,15 +4,6 @@ title: News
 permalink: /news
 ---
 
-<!-- Simple nav -->
-<p align="center">
-  <a href="{{ site.baseurl }}/">Home</a> •
-  <a href="{{ site.baseurl }}/people">People</a> •
-  <a href="{{ site.baseurl }}/publications">Publications</a> •
-  <a href="{{ site.baseurl }}/media">Media</a> •
-  <a href="{{ site.baseurl }}/news">News</a> •
-  <a href="{{ site.baseurl }}/positions">Open Positions</a>
-</p>
 
 # News
 - **2025-04** — Our application to the prestigious Pew Biomedical Scholars Program reached the final stage of an exceptionally competitive review process this year. The National Advisory Committee recognized our proposal among an outstanding group of candidates. 
