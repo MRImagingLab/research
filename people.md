@@ -38,7 +38,7 @@ permalink: /people
       Dr. Sun is an MRI researcher focused on developing novel strategies for rapid MRI acquisition, accurate reconstruction, and quantitative analysis. His current research emphasizes novel physics‑ and data‑driven methods using deep learning, parallel imaging, non‑Cartesian sampling, and compressed sensing for cardiopulmonary applications. The ultimate goal is to enable fast, accurate, and automated MRI workflows for diagnosing and treating cardiopulmonary diseases.</p>
 
       <p><strong>Research Interests</strong><br>
-      Data‑driven and physics‑driven MRI methods; Diagnosis and treatment of cardiopulmonary diseases</p>
+      Data‑driven and physics‑driven MRI methods; MRI methods development for cardiopulmonary disease research</p>
 
       <p><strong>Areas of Expertise</strong><br>
       Magnetic Resonance Imaging (MRI); Artificial Intelligence in medical imaging; Image reconstruction and analysis; Rapid MRI; Cardiac MRI</p>
