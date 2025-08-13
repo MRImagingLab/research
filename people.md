@@ -24,7 +24,7 @@ permalink: /people
     <div class="person-left">
       <img src="{{ site.baseurl }}/assets/Sun_Changyu.jpg" alt="Dr. Changyu Sun">
       <h3>Dr. Changyu Sun</h3>
-      <p><strong>Assistant Professor, NextGen Precision Health Investigator</strong></p>
+      <p><strong>Assistant Professor of Biomedical Engineering and Radiology, NextGen Precision Health Investigator</strong></p>
       <p>Email: <a href="mailto:csyfc@missouri.edu">csyfc@missouri.edu</a></p>
       <p><strong>Office:</strong><br>
         1101 Hospital Drive, NextGen Precision Health Institute<br>
