@@ -59,7 +59,7 @@ permalink: /people
   <div class="person-card">
     <div class="person-left">
       <!-- NOTE: path uses site.baseurl and exact filename -->
-      <img src="{{ site.baseurl }}/assets/Nathan_Bresette.jpg" alt="Nathan Bresette">
+      <img src="{{ site.baseurl }}/assets/nathan_headshot.jpg" alt="Nathan Bresette">
       <h3>Nathan Bresette</h3>
       <p><strong>PhD Student</strong></p>
     </div>
