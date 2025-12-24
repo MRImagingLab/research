@@ -1,13 +1,40 @@
-/* Reduce the height and narrow the content area of the gradient bar */
+/* ===== Header gradient ===== */
 .page-header {
-   background: linear-gradient(to right, #1e3c72, #2a5298);
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
 }
 
+/* ===== Constrain header text width ===== */
 .page-header h1,
-.page-header h2,
-.page-header p {
-  max-width: 700px;   /* Limit the width of text/buttons */
+.page-header h2 {
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+/* ===== Navigation buttons layout ===== */
+.page-header p {
+  display: flex;
+  flex-wrap: wrap;              /* allow wrap on small screens */
+  justify-content: center;
+  gap: 12px;
+  max-width: 1100px;            /* wider than text */
+  margin: 1.5rem auto 0 auto;
+  text-align: center;
+}
+
+/* ===== Button spacing fix ===== */
+.page-header p .btn {
+  margin: 0 !important;         /* override Cayman defaults */
+  padding: 10px 16px;
+  white-space: nowrap;
+}
+
+/* ===== Desktop: force single row ===== */
+@media (min-width: 900px) {
+  .page-header p {
+    flex-wrap: nowrap;
+  }
 }
