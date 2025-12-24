@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Teaching
+title: Media
+permalink: /media
 ---
+
 
 # Teaching
 
