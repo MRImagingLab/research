@@ -11,6 +11,6 @@ permalink: /teaching
 ### Interactive Teaching Tools
 
 #### MRI Image Quality Slider Lab
-An interactive, browser-based teaching tool developed for **BME4974 – Medical Image Processing** to illustrate fundamental MRI image quality concepts, including **spatial resolution, signal-to-noise ratio (SNR), and contrast**.
+An interactive, browser-based teaching tool developed for **BME4974 – Medical Image Processing** to illustrate fundamental MRI image quality concepts, including spatial resolution, signal-to-noise ratio (SNR), and contrast.
 
 👉 **[Launch the interactive UI](https://YOUR-STREAMLIT-APP-URL)**
