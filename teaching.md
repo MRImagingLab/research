@@ -9,7 +9,7 @@ permalink: /teaching
 
 
 ## BME 4974 / BIOL_EN 4974 / BIOL_EN 7974 – Medical Image Processing  
-*(Both undergraduate and graduate course)*
+*(Both undergraduate and graduate-level course)*
 
 ### Interactive Teaching Tools
 
