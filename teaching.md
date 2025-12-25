@@ -15,6 +15,4 @@ An interactive, browser-based teaching tool developed for **Medical Image Proces
 
 👉 **[Launch the interactive UI](https://mri-image-quality-lab-ppbesd8kn38xlg8jqc3ijg.streamlit.app/)**
 
-👉 **[Source code on GitHub](https://github.com/MRImagingLab/mri-image-quality-lab/tree/main)**
-
 > *Note: This tool is intended for educational and visualization purposes only. The simulations are simplified and are not suitable for clinical or quantitative MRI analysis.*
