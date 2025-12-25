@@ -59,6 +59,13 @@
   border-color: rgba(255,255,255,0.40);
 }
 
+/* ---------- FIX: center + constrain main content ---------- */
+.main-content{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+}
+
 /* ---------- Make the content area not start with huge bold text ---------- */
 .main-content h1{
   margin-top: 0.5rem;
