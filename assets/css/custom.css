@@ -1,56 +1,65 @@
-/* Clean academic header */
-.page-header {
-  background: linear-gradient(135deg, #243b6b, #2f4f8f);
-  padding: 3rem 1rem;
+/* ---------- Header: cleaner + professional ---------- */
+.page-header{
+  background: linear-gradient(180deg, #1f3a5f 0%, #1b3558 100%);
+  padding: 2.25rem 1rem 1.75rem;
+  text-align: center;
 }
 
-/* Title */
-.page-header h1 {
+/* Title / subtitle sizing (Cayman defaults are often awkward) */
+.page-header .project-name{
+  margin: 0;
   color: #ffffff;
   font-weight: 700;
-  letter-spacing: 0.5px;
+  font-size: clamp(1.9rem, 3.6vw, 3.0rem);
+  letter-spacing: 0.2px;
 }
 
-/* Subtitle */
-.page-header h2 {
-  color: #dbe4f3;
+.page-header .project-tagline{
+  margin-top: 0.6rem;
+  color: rgba(255,255,255,0.82);
   font-weight: 400;
+  font-size: clamp(1.05rem, 1.6vw, 1.25rem);
 }
 
-/* Navigation container */
-.page-header p {
-  margin-top: 1.5rem;
+/* ---------- Nav: single row, responsive wrap, uniform buttons ---------- */
+.top-nav{
+  margin-top: 1.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;              /* wraps nicely on small screens */
 }
 
-
-/* Navigation buttons */
-.page-header .btn {
-  background-color: rgba(255, 255, 255, 0.12);
-  color: #ffffff;
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  margin: 0.3rem;
-  padding: 0.5rem 1rem;
-  border-radius: 6px;
+.top-nav .nav-btn{
+  display: inline-block;
+  padding: 0.45rem 0.85rem;
+  border-radius: 10px;
   text-decoration: none;
-  font-weight: 500;
+
+  color: #ffffff;
+  background: rgba(255,255,255,0.10);
+  border: 1px solid rgba(255,255,255,0.18);
+
+  font-weight: 600;
+  font-size: 0.92rem;
+  line-height: 1;
+  transition: transform 120ms ease, background 120ms ease, border-color 120ms ease;
 }
 
-/* Hover effect */
-.page-header .btn:hover {
-  background-color: rgba(255, 255, 255, 0.25);
-  border-color: rgba(255, 255, 255, 0.4);
+.top-nav .nav-btn:hover{
+  background: rgba(255,255,255,0.18);
+  border-color: rgba(255,255,255,0.28);
+  transform: translateY(-1px);
 }
 
-/* ===== Button spacing fix ===== */
-.page-header p .btn {
-  margin: 0 !important;         /* override Cayman defaults */
-  padding: 10px 16px;
-  white-space: nowrap;
+/* optional: indicate current page if you add class="active" later */
+.top-nav .nav-btn.active{
+  background: rgba(255,255,255,0.26);
+  border-color: rgba(255,255,255,0.40);
 }
 
-/* ===== Desktop: force single row ===== */
-@media (min-width: 900px) {
-  .page-header p {
-    flex-wrap: nowrap;
-  }
+/* ---------- Make the content area not start with huge bold text ---------- */
+.main-content h1{
+  margin-top: 0.5rem;
 }
