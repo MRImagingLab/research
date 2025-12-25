@@ -24,6 +24,23 @@
   margin: 1.5rem auto 0 auto;
   text-align: center;
 }
+/* Navigation buttons */
+.page-header .btn {
+  background-color: rgba(255, 255, 255, 0.12);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  margin: 0.3rem;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Hover effect */
+.page-header .btn:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+  border-color: rgba(255, 255, 255, 0.4);
+}
 
 /* ===== Button spacing fix ===== */
 .page-header p .btn {
