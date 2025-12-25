@@ -6,7 +6,7 @@ permalink: /teaching
 
 # Teaching
 
-## BME4974 – Medical Image Processing
+## BME 4974 / BIOL_EN 4974 / BIOL_EN 7974 – Medical Image Processing
 
 ### Interactive Teaching Tools
 
