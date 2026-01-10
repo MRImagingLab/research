@@ -18,4 +18,8 @@ An interactive, browser-based teaching tool developed for **Medical Image Proces
 
 👉 **[Launch the interactive UI](https://mri-image-quality-lab-2tvyt2uctfuzgfvj3kzptp.streamlit.app/)**
 
-> *Note: This tool is intended for educational and visualization purposes only. The simulations are simplified and are not suitable for clinical or quantitative MRI analysis.*
+#### 2. Learn how AI can automatically find the heart location 
+An interactive, browser-based teaching tool developed for **Medical Image Processing** to illustrate fundamental deep learning concepts, including parameter tuning, intermidiate feature maps, automatic location detection etc.
+👉 **[Launch the interactive UI](https://pahhz8xqgyzbhuxmmtfa9e.streamlit.app/)
+
+> *Note: This tool is intended for educational and visualization purposes only. This work should not be used for clinical applications.*
