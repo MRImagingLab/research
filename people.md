@@ -65,7 +65,7 @@ permalink: /people
       <p><em>Former lab member</em></p>
     </div>
     <div class="person-right">
-      <p>Nathan Bresette is a PhD student working on MRI quantitative analysis.</p>
+      <p>Nathan Bresette is a PhD student completing a research rotation in my lab, focusing on quantitative MRI analysis.</p>
     </div>
   </div>
 </section>
