@@ -82,7 +82,7 @@ permalink: /publications
 
 ## Conference Presentations (Selected, 2023–2025)
 ### 2026
-- **CineGen: Inline Conditional Flow-Matching Super-Resolution for Real-Time Cardiac Cine MRI** — *Trailhead Award for Clinical Relevance and Impact*, ISMRM Data Sampling & Image Reconstruction Workshop, Sedona, AZ, USA.  
+- **CineGen: Inline Conditional Flow-Matching Super-Resolution for Real-Time Cardiac Cine MRI** — **Trailhead Award for Clinical Relevance and Impact**, ISMRM Data Sampling & Image Reconstruction Workshop, Sedona, AZ, USA.  
 ### 2025
 - **Super-resolution cardiac MR tagging using a cascaded conditional diffusion-based generative model** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.  
 - **Conditional Diffusion-Generated Super-Resolution for Myocardial First-Pass Perfusion MRI** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.
@@ -92,7 +92,7 @@ permalink: /publications
 - **Long-axis cardiac tagging MRI motion estimation using an unsupervised neural network** — *Power pitch*, 27th SCMR, London, UK.  
 - **Free-breathing high-resolution perfusion MRI with over 11-fold acceleration using self-supervised learning** — *Oral presentation*, 27th SCMR, London, UK.  
 - **Spatiotemporal fractal analysis and radiomics of free-breathing stress myocardial perfusion** — *Power pitch, oral presentation*, 27th SCMR, London, UK.  
-- **Phase-specific spatiotemporal fractal analysis and radiomics of free-breathing stress myocardial perfusion** — *Abstract 1172, 1% highlight*, 32nd ISMRM, Singapore.  
+- **Phase-specific spatiotemporal fractal analysis and radiomics of free-breathing stress myocardial perfusion** — **Abstract 1172, 1% highlight**, 32nd ISMRM, Singapore.  
 - **High-resolution free-breathing perfusion MRI with high slice coverage via SAM in self-supervised learning with self-regularization** — *Power pitch, oral presentation*, 32nd ISMRM, Singapore.
 
 ### 2023
