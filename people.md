@@ -62,6 +62,7 @@ permalink: /people
       <img src="{{ site.baseurl }}/assets/nathan_headshot.jpg" alt="Nathan Bresette">
       <h3>Nathan Bresette</h3>
       <p><strong>PhD Student</strong></p>
+      <p><em>Former lab member</em></p>
     </div>
     <div class="person-right">
       <p>Nathan Bresette is a PhD student working on MRI quantitative analysis.</p>
