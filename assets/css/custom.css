@@ -1,11 +1,17 @@
 /* ---------- Header: cleaner + professional ---------- */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Arial, Helvetica, sans-serif;
+}
+
+/* ---------- Page header ---------- */
 .page-header{
   background: linear-gradient(180deg, #1f3a5f 0%, #1b3558 100%);
   padding: 2.25rem 1rem 1.75rem;
   text-align: center;
 }
 
-/* Title / subtitle sizing (Cayman defaults are often awkward) */
+/* Title / subtitle sizing */
 .page-header .project-name{
   margin: 0;
   color: #ffffff;
@@ -21,14 +27,14 @@
   font-size: clamp(1.05rem, 1.6vw, 1.25rem);
 }
 
-/* ---------- Nav: single row, responsive wrap, uniform buttons ---------- */
+/* ---------- Nav ---------- */
 .top-nav{
   margin-top: 1.25rem;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 0.6rem;
-  flex-wrap: wrap;              /* wraps nicely on small screens */
+  flex-wrap: wrap;
 }
 
 .top-nav .nav-btn{
@@ -36,11 +42,9 @@
   padding: 0.45rem 0.85rem;
   border-radius: 10px;
   text-decoration: none;
-
   color: #ffffff;
   background: rgba(255,255,255,0.10);
   border: 1px solid rgba(255,255,255,0.18);
-
   font-weight: 600;
   font-size: 0.92rem;
   line-height: 1;
@@ -53,20 +57,18 @@
   transform: translateY(-1px);
 }
 
-/* optional: indicate current page if you add class="active" later */
 .top-nav .nav-btn.active{
   background: rgba(255,255,255,0.26);
   border-color: rgba(255,255,255,0.40);
 }
 
-/* ---------- FIX: center + constrain main content ---------- */
+/* ---------- Main content ---------- */
 .main-content{
   max-width: 980px;
   margin: 0 auto;
   padding: 2rem 1.25rem;
 }
 
-/* ---------- Make the content area not start with huge bold text ---------- */
 .main-content h1{
   margin-top: 0.5rem;
 }
