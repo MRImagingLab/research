@@ -81,7 +81,8 @@ permalink: /publications
 ---
 
 ## Conference Presentations (Selected, 2023–2025)
-
+### 2026
+- **CineGen: Inline Conditional Flow-Matching Super-Resolution for Real-Time Cardiac Cine MRI** — *Trailhead Award for Clinical Relevance and Impact*, ISMRM Data Sampling & Image Reconstruction Workshop, Sedona, AZ, USA.  
 ### 2025
 - **Super-resolution cardiac MR tagging using a cascaded conditional diffusion-based generative model** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.  
 - **Conditional Diffusion-Generated Super-Resolution for Myocardial First-Pass Perfusion MRI** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.
