@@ -10,7 +10,7 @@ permalink: /publications
   <img
     src="{{ '/assets/citation_map.png' | relative_url }}"
     alt="Citation map of selected publications"
-    style="width:100%; max-width:550px; border:1px solid #e5e7eb; border-radius:12px;"
+    style="width:100%; max-width:450px; border:1px solid #e5e7eb; border-radius:12px;"
   />
   <figcaption style="margin-top:0.5rem; font-size:0.95rem; color:#555;">
     Global citation map of publications.
