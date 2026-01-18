@@ -13,6 +13,32 @@ We develop **AI-enhanced cardiopulmonary MRI** and **translational large animal 
 ## Highlights
 - **Cardiac MRI reconstruction** — physics-guided MRI reconstruction and self-supervised learning.
 - **Generative super resolution MRI** — diffusion model, flow matching etc.
+<div style="display: flex; align-items: center; gap: 16px; margin-top: 18px;">
+  <!-- Left side: movie -->
+  <div style="flex: 0 0 auto;">
+    <video
+      controls
+      muted
+      playsinline
+      preload="metadata"
+      style="width:260px; border: 1px solid #ddd; border-radius: 10px;"
+    >
+      <source src="{{ '/assets/low_to_high.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <!-- Right side: title and description -->
+  <div style="flex: 1;">
+    <p style="margin: 0; font-weight: bold; font-size: 1.1em;">
+      AI-enhanced Cardiac Cine MRI: Low-Resolution → CineGen
+    </p>
+    <p style="margin: 6px 0; color: #555;">
+      Progressive visualization showing CineGen super-resolution enhancement from low-resolution cine MRI.
+    </p>
+  </div>
+</div>
+
 - **Large-animal translation** — AI and  MRI Ossabaw pig models for cardiovascular diseases.
 - **Integrated MRI** — heart–brain–lung for systemic vascular health.
 - **AI from development to deployment in MRI scanners** — preclinical and clinical deployement and validation of AI for MRI.
