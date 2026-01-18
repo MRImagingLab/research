@@ -34,7 +34,7 @@ We develop **AI-enhanced cardiopulmonary MRI** and **translational large animal 
       AI-enhanced Cardiac Cine MRI: Low-Resolution → Flow-matching Enhanced image
     </p>
     <p style="margin: 6px 0; color: #555;">
-      Progressive visualization showing CineGen super-resolution enhancement from low-resolution cine MRI.
+      Progressive visualization showing CineGen enhancement from low-resolution cine MRI.
     </p>
   </div>
 </div>
