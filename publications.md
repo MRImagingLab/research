@@ -101,6 +101,7 @@ permalink: /publications
 ### 2025
 - **Super-resolution cardiac MR tagging using a cascaded conditional diffusion-based generative model** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.  
 - **Conditional Diffusion-Generated Super-Resolution for Myocardial First-Pass Perfusion MRI** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.
+- **TagGen: Diffusion-based Generative Model for Cardiac MR Tagging Super Resolution** — *Rapid Fire*, 28th SCMR, Washington DC, USA.
 
 ### 2024
 - **TagGen: Diffusion-based generative model for cardiac MR tagging super resolution** — *Power pitch*, 28th SCMR, Washington, D.C., USA.  
