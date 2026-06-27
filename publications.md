@@ -97,6 +97,7 @@ permalink: /publications
 ### 2026
 - **CineGen: Inline Conditional Flow-Matching Super-Resolution for Real-Time Cardiac Cine MRI** — **Trailhead Award for Clinical Relevance and Impact**, ISMRM Workshop on Data Sampling and Image Reconstruction, Sedona, AZ, USA.
 - **CineGen: Conditional Flow Matching-based Super-Resolution for High-Quality Free-Breathing Real-Time Cartesian Cine MRI** — *Rapid Fire*, 29th SCMR, Rio de Janeiro, Brazil.
+- **FIRE-integrated CineGen: inline conditional flow-matching super-resulution for real-time Cine MRI** — *Oral*, 34th ISMRM, Cape Town, South Africa.
    
 ### 2025
 - **Super-resolution cardiac MR tagging using a cascaded conditional diffusion-based generative model** — *Digital poster*, 33rd ISMRM, Honolulu, HI, USA.  
