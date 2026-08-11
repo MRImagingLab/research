@@ -6,7 +6,7 @@ permalink: /news
 
 
 # News
-- **2026-08** — **Welcome to Hong Chen**, who joins the lab as a PhD student in Biological Engineering! She joined us from Washington University in St. Louis, where she earned her master's degree, and will work on cardiac MRI and quantitative imaging analysis.
+- **2026-08** — **Welcome to Hong Chen**, who joins the lab as a PhD student in Biomedical Engineering! She joined us from Washington University in St. Louis, where she earned her master's degree, and will work on cardiac MRI and quantitative imaging analysis.
 - **2026-01** — Our abstract received the Trailhead Award for Clinical Relevance and Impact at the ISMRM Workshop on Data Sampling & Image Reconstruction 2026, selected from 96 accepted abstracts.
 - **2025-04** — Our application to the prestigious Pew Biomedical Scholars Program reached the final stage of an exceptionally competitive review process this year. The National Advisory Committee recognized our proposal among an outstanding group of candidates. 
 - **2024-10** — MU Research Council Grant Funded — Our proposal has been selected for funding by the MU Research Council, supporting the advancement of our research initiatives.

@@ -61,10 +61,10 @@ permalink: /people
       <!-- NOTE: path uses site.baseurl and exact filename -->
       <img src="{{ site.baseurl }}/assets/hong_chen.jpg" alt="Hong Chen">
       <h3>Hong Chen</h3>
-      <p><strong>PhD Student, Biological Engineering</strong></p>
+      <p><strong>PhD Student, Biomedical Engineering</strong></p>
     </div>
     <div class="person-right">
-      <p>Hong Chen is a PhD student in Biological Engineering with research interests in cardiac MRI and quantitative imaging analysis. She joined the lab from Washington University in St. Louis, where she earned her master's degree.</p>
+      <p>Hong Chen is a PhD student in Biomedical Engineering with research interests in cardiac MRI and quantitative imaging analysis. She joined the lab from Washington University in St. Louis, where she earned her master's degree.</p>
     </div>
   </div>
 </section>
