@@ -59,13 +59,28 @@ permalink: /people
   <div class="person-card">
     <div class="person-left">
       <!-- NOTE: path uses site.baseurl and exact filename -->
+      <img src="{{ site.baseurl }}/assets/hong_chen.jpg" alt="Hong Chen">
+      <h3>Hong Chen</h3>
+      <p><strong>PhD Student, Biological Engineering</strong></p>
+    </div>
+    <div class="person-right">
+      <p>Hong Chen is a PhD student in Biological Engineering with research interests in cardiac MRI and quantitative imaging analysis.</p>
+    </div>
+  </div>
+</section>
+
+
+<section class="people-section">
+  <h2>Lab Alumni</h2>
+
+  <div class="person-card">
+    <div class="person-left">
       <img src="{{ site.baseurl }}/assets/nathan_headshot.jpg" alt="Nathan Bresette">
       <h3>Nathan Bresette</h3>
       <p><strong>PhD Student</strong></p>
-      <p><em>Former lab member</em></p>
     </div>
     <div class="person-right">
-      <p>Nathan Bresette is a PhD student completing a research rotation in my lab, focusing on quantitative MRI analysis.</p>
+      <p>Nathan Bresette completed a research rotation in the lab, focusing on quantitative MRI analysis.</p>
     </div>
   </div>
 </section>
