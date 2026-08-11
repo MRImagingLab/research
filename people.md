@@ -64,7 +64,7 @@ permalink: /people
       <p><strong>PhD Student, Biomedical Engineering</strong></p>
     </div>
     <div class="person-right">
-      <p>Hong Chen is a PhD student in Biomedical Engineering with research interests in cardiac MRI and quantitative imaging analysis. She joined the lab from Washington University in St. Louis, where she earned her master's degree.</p>
+      <p>Hong Chen is a PhD student in Biomedical Engineering with research interests in cardiac MRI and quantitative imaging analysis. She received her master's degree from Washington University in St. Louis.</p>
     </div>
   </div>
 </section>
